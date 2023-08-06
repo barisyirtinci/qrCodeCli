@@ -2,7 +2,11 @@
 
 for use:
 
-$git clone https://github.com/barisyirtinci/qrCodeCli.git
+>fork this repo
+
+$git clone https://github.com/YOUR_GITHUB_USERNAME/qrCodeCli.git
+
+$cd /qrCodeCli
 
 $npm install
 
